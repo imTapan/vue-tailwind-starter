@@ -1,8 +1,11 @@
 {
   "name": "vue-tailwind",
-  "private": true,
-  "version": "0.0.0",
+  "private": false,
+  "version": "1.0.0",
   "type": "module",
+  "author": {
+    "name": "imTapan"
+  },
   "scripts": {
     "dev": "vite",
     "build": "vite build",
